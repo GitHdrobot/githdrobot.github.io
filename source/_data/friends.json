@@ -1,0 +1,19 @@
+[{
+    "avatar": "https://www.gnu.org/graphics/heckert_gnu.transp.small.png",
+    "name": "斯托曼",
+    "introduction": "引领开源潮流",
+    "url": "https://www.gnu.org/",
+    "title": "前去学习"
+}, {
+    "avatar": "https://www.gnu.org/graphics/gnu-and-penguin-color-300x276.jpg",
+    "name": "cplusplus",
+    "introduction": "IT大楼有一半是我盖的",
+    "url": "http://www.cplusplus.com/",
+    "title": "前去学习"
+}, {
+    "avatar": "https://1.cms.s81c.com/sites/default/files/2019-11-08/dig-conf.jpg",
+    "name": "IBM",
+    "introduction": "卡斯帕罗夫是我干掉的",
+    "url": "https://www.ibm.com/developerworks/cn/",
+    "title": "前去学习"
+}]
