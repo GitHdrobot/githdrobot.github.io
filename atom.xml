@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Robot&#39;s blog</title>
+  
+  <subtitle>Record Some Interestings</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-11-21T16:43:41.069Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>hd robot</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Build Your Blog</title>
+    <link href="http://yoursite.com/2019/11/20/build-github-blog-with-hexo/"/>
+    <id>http://yoursite.com/2019/11/20/build-github-blog-with-hexo/</id>
+    <published>2019-11-20T15:57:12.903Z</published>
+    <updated>2019-11-21T16:43:41.069Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;hexo-搭建github博客&quot;&gt;&lt;a href=&quot;#hexo-搭建github博客&quot; class=&quot;headerlink&quot; title=&quot;hexo 搭建github博客&quot;&gt;&lt;/a&gt;hexo 搭建github博客&lt;/h1&gt;&lt;h2 id=&quot;准备工作&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Web Design" scheme="http://yoursite.com/categories/Web-Design/"/>
+    
+    
+      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
+    
+      <category term="Markdown" scheme="http://yoursite.com/tags/Markdown/"/>
+    
+      <category term="GitHub" scheme="http://yoursite.com/tags/GitHub/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2019/11/20/hello-world/"/>
+    <id>http://yoursite.com/2019/11/20/hello-world/</id>
+    <published>2019-11-20T00:02:34.869Z</published>
+    <updated>2019-11-20T00:25:00.123Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
