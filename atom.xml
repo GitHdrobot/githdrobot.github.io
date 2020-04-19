@@ -5,9 +5,9 @@
   <subtitle>Record Some Interestings</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
-  <updated>2019-11-21T16:43:41.069Z</updated>
-  <id>http://yoursite.com/</id>
+  <link href="https://githdrobot.github.io/"/>
+  <updated>2019-11-20T00:25:00.123Z</updated>
+  <id>https://githdrobot.github.io/</id>
   
   <author>
     <name>hd robot</name>
@@ -17,41 +17,10 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Build Your Blog</title>
-    <link href="http://yoursite.com/2019/11/20/build-github-blog-with-hexo/"/>
-    <id>http://yoursite.com/2019/11/20/build-github-blog-with-hexo/</id>
-    <published>2019-11-20T15:57:12.903Z</published>
-    <updated>2019-11-21T16:43:41.069Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h1 id=&quot;hexo-搭建github博客&quot;&gt;&lt;a href=&quot;#hexo-搭建github博客&quot; class=&quot;headerlink&quot; title=&quot;hexo 搭建github博客&quot;&gt;&lt;/a&gt;hexo 搭建github博客&lt;/h1&gt;&lt;h2 id=&quot;准备工作&quot;&gt;&lt;a
-        
-      
-    
-    </summary>
-    
-    
-      <category term="Web Design" scheme="http://yoursite.com/categories/Web-Design/"/>
-    
-    
-      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
-    
-      <category term="Markdown" scheme="http://yoursite.com/tags/Markdown/"/>
-    
-      <category term="GitHub" scheme="http://yoursite.com/tags/GitHub/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/11/20/hello-world/"/>
-    <id>http://yoursite.com/2019/11/20/hello-world/</id>
-    <published>2019-11-20T00:02:34.869Z</published>
+    <link href="https://githdrobot.github.io/2020/02/09/hello-world/"/>
+    <id>https://githdrobot.github.io/2020/02/09/hello-world/</id>
+    <published>2020-02-09T05:41:15.173Z</published>
     <updated>2019-11-20T00:25:00.123Z</updated>
     
     <summary type="html">
@@ -67,6 +36,37 @@
     </summary>
     
     
+    
+  </entry>
+  
+  <entry>
+    <title>Build Your Blog</title>
+    <link href="https://githdrobot.github.io/2020/02/09/build-github-blog-with-hexo/"/>
+    <id>https://githdrobot.github.io/2020/02/09/build-github-blog-with-hexo/</id>
+    <published>2020-02-09T05:41:15.157Z</published>
+    <updated>2020-04-19T14:15:28.293Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;hexo-搭建github博客&quot;&gt;&lt;a href=&quot;#hexo-搭建github博客&quot; class=&quot;headerlink&quot; title=&quot;hexo 搭建github博客&quot;&gt;&lt;/a&gt;hexo 搭建github博客&lt;/h1&gt;&lt;h2 id=&quot;准备工作&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Web Design" scheme="https://githdrobot.github.io/categories/Web-Design/"/>
+    
+    
+      <category term="Hexo" scheme="https://githdrobot.github.io/tags/Hexo/"/>
+    
+      <category term="Markdown" scheme="https://githdrobot.github.io/tags/Markdown/"/>
+    
+      <category term="GitHub" scheme="https://githdrobot.github.io/tags/GitHub/"/>
     
   </entry>
   
