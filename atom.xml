@@ -3,7 +3,7 @@
   <title>Robot&#39;s blog</title>
   
   <subtitle>Record Some Interestings</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="https://githdrobot.github.io/atom.xml" rel="self"/>
   
   <link href="https://githdrobot.github.io/"/>
   <updated>2019-11-20T00:25:00.123Z</updated>
@@ -23,17 +23,15 @@
     <published>2020-02-09T05:41:15.173Z</published>
     <updated>2019-11-20T00:25:00.123Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
         
       
     
-    </summary>
     
     
     
@@ -46,27 +44,25 @@
     <published>2020-02-09T05:41:15.157Z</published>
     <updated>2020-04-19T14:15:28.293Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;h1 id=&quot;hexo-搭建github博客&quot;&gt;&lt;a href=&quot;#hexo-搭建github博客&quot; class=&quot;headerlink&quot; title=&quot;hexo 搭建github博客&quot;&gt;&lt;/a&gt;hexo 搭建github博客&lt;/h1&gt;&lt;h2 id=&quot;准备工作&quot;&gt;&lt;a
+    <summary type="html">&lt;h1 id=&quot;hexo-搭建github博客&quot;&gt;&lt;a href=&quot;#hexo-搭建github博客&quot; class=&quot;headerlink&quot; title=&quot;hexo 搭建github博客&quot;&gt;&lt;/a&gt;hexo 搭建github博客&lt;/h1&gt;&lt;h2 id=&quot;准备工作&quot;&gt;&lt;a</summary>
         
       
     
-    </summary>
     
     
-      <category term="Web Design" scheme="https://githdrobot.github.io/categories/Web-Design/"/>
+    <category term="Web Design" scheme="https://githdrobot.github.io/categories/Web-Design/"/>
     
     
-      <category term="Hexo" scheme="https://githdrobot.github.io/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://githdrobot.github.io/tags/Hexo/"/>
     
-      <category term="Markdown" scheme="https://githdrobot.github.io/tags/Markdown/"/>
+    <category term="Markdown" scheme="https://githdrobot.github.io/tags/Markdown/"/>
     
-      <category term="GitHub" scheme="https://githdrobot.github.io/tags/GitHub/"/>
+    <category term="GitHub" scheme="https://githdrobot.github.io/tags/GitHub/"/>
     
   </entry>
   
