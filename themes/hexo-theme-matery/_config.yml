@@ -87,11 +87,12 @@ music:
 
 # Whether to display the videos.
 # 是否在首页显示视频.
+# URL 必填
 video:
   enable: true
   showTitle: true
   title: 精彩视频
-  url: https://video.yinyuetai.com/8b23b66e1a304f7e8ebd116a2dd219a8.mp4# 必填
+  url: /medias/display.mp4
   pic:
   thumbnails:
   height: # 如：400
