@@ -22,11 +22,11 @@ tags:
 
 ## 架构
 
-!<img src="Router_hw_architecture_logical.png" alt="Router architecture" style="zomm:%100;" />
+<img src="Router_hw_architecture_logical.png" alt="Router architecture" style="zomm:%100;" />
 
-!<img src="Router_hw_architecture_example.png" alt="Router architecture" style="zomm:%100;"/>
+<img src="Router_hw_architecture_example.png" alt="Router architecture" style="zomm:%100;"/>
 
-!<img src="Router_sw_architecture.png" alt="Router architecture" style="zomm:%100;"/>
+<img src="Router_sw_architecture.png" alt="Router architecture" style="zomm:%100;"/>
 
 
 
@@ -75,7 +75,7 @@ tags:
 
 Ethernet II、IEEE 802.3标准的区别：1、帧格式不同 6（DMAC）+6（SMAC）+2（Type/Length）；2、制定者不同；3、使用范围不同，Ethernet II使用更加广泛。MTU：46-1500（为何最小是46，最大是1500）。两者都采用CSMA-CD（Carrier Sense Multiple Access with Collision Detection ）技术
 
-<img src="network_proto_model.svg" alt="network protocol model" style="zomm:%100;"/>
+<img src="network_proto_model.svg" alt="Network protocol model" style="zomm:%100;"/>
 
 
 
