@@ -25,7 +25,7 @@ SAS：序列化SCSI（Serial Attached SCSI）一种点对点的串行协议，�
 
 ### 电路电平
 
-RS232电平范围（-15~15V），采用负逻辑。RS485使用差分信号表示，电平范围（-7~12V）
+RS232电平范围-15到15V，采用负逻辑。RS485使用差分信号表示，电平范围-7到12V。
 
 <img src="Rs232_Rs485_standard.PNG" alt="Rs232 Rs485 Standard" style="zomm:%100;"/>
 
