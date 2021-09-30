@@ -3,8 +3,8 @@ title: Serial-communication
 date: 2021-09-29 07:22:33
 tags: 
  - Serial Communication
- - Synchronous Communication
- - Asynchronous Communication
+ - Synchronous
+ - Asynchronous
 ---
 
 Serial通信一般分为同步通信（SPI、I^2C）和异步通信（UART），硬件上主要区别是同步通信总线上有单独的同步时钟线，在数据链路层，异步通信数据帧上需添加额外信息（起始位、停止位、空闲位）用于同步数据帧。逻辑信号表示分为single-ended和differential，差分信号有较好抗噪声、传输距离更长优点正逐步替代单端模式。
@@ -25,7 +25,7 @@ SAS：序列化SCSI（Serial Attached SCSI）一种点对点的串行协议，�
 
 ### 电路电平
 
-RS232电平范围-15~15V，采用负逻辑。RS485使用差分信号表示，电平范围-7~12V
+RS232电平范围（-15~15V），采用负逻辑。RS485使用差分信号表示，电平范围（-7~12V）
 
 <img src="Rs232_Rs485_standard.PNG" alt="Rs232 Rs485 Standard" style="zomm:%100;"/>
 
@@ -71,7 +71,7 @@ SPI：串行外设接口（Serial Peripheral Interface），一种短距离的�
 
 SPI　master－slave连接示意图
 
-<img src="SPI_8-bit_circular_transfer.svg" alt="SPI　connection" style="zomm:%100;"/>
+<img src="SPI_8-bit_circular_transfer.svg" alt="SPI　schematic" style="zomm:%100;"/>
 
 SPI　时序图
 
