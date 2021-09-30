@@ -6,7 +6,7 @@
   <link href="https://githdrobot.github.io/atom.xml" rel="self"/>
   
   <link href="https://githdrobot.github.io/"/>
-  <updated>2021-09-30T09:53:01.685Z</updated>
+  <updated>2021-09-30T10:03:25.845Z</updated>
   <id>https://githdrobot.github.io/</id>
   
   <author>
@@ -20,8 +20,8 @@
     <title>Build Your Blog</title>
     <link href="https://githdrobot.github.io/2021/09/30/build-github-blog-with-hexo/"/>
     <id>https://githdrobot.github.io/2021/09/30/build-github-blog-with-hexo/</id>
-    <published>2021-09-30T09:53:01.685Z</published>
-    <updated>2021-09-30T09:53:01.685Z</updated>
+    <published>2021-09-30T10:03:25.845Z</published>
+    <updated>2021-09-30T10:03:25.845Z</updated>
     
     
       
@@ -49,8 +49,8 @@
     <title>Hello World</title>
     <link href="https://githdrobot.github.io/2021/09/30/hello-world/"/>
     <id>https://githdrobot.github.io/2021/09/30/hello-world/</id>
-    <published>2021-09-30T09:53:01.685Z</published>
-    <updated>2021-09-30T09:53:01.685Z</updated>
+    <published>2021-09-30T10:03:25.845Z</published>
+    <updated>2021-09-30T10:03:25.845Z</updated>
     
     
       
@@ -71,7 +71,7 @@
     <link href="https://githdrobot.github.io/2021/09/28/serial-communication/"/>
     <id>https://githdrobot.github.io/2021/09/28/serial-communication/</id>
     <published>2021-09-28T23:22:33.000Z</published>
-    <updated>2021-09-30T09:53:01.649Z</updated>
+    <updated>2021-09-30T10:03:25.809Z</updated>
     
     
       
@@ -87,9 +87,9 @@
     
     <category term="Serial Communication" scheme="https://githdrobot.github.io/tags/Serial-Communication/"/>
     
-    <category term="Synchronous Communication" scheme="https://githdrobot.github.io/tags/Synchronous-Communication/"/>
+    <category term="Synchronous" scheme="https://githdrobot.github.io/tags/Synchronous/"/>
     
-    <category term="Asynchronous Communication" scheme="https://githdrobot.github.io/tags/Asynchronous-Communication/"/>
+    <category term="Asynchronous" scheme="https://githdrobot.github.io/tags/Asynchronous/"/>
     
   </entry>
   
@@ -98,7 +98,7 @@
     <link href="https://githdrobot.github.io/2021/08/08/router-introduction/"/>
     <id>https://githdrobot.github.io/2021/08/08/router-introduction/</id>
     <published>2021-08-08T10:13:30.000Z</published>
-    <updated>2021-09-30T09:53:01.585Z</updated>
+    <updated>2021-09-30T10:03:25.745Z</updated>
     
     
       
