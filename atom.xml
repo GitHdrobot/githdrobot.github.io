@@ -6,7 +6,7 @@
   <link href="https://githdrobot.github.io/atom.xml" rel="self"/>
   
   <link href="https://githdrobot.github.io/"/>
-  <updated>2021-09-30T10:04:47.283Z</updated>
+  <updated>2021-10-08T15:31:45.092Z</updated>
   <id>https://githdrobot.github.io/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Build Your Blog</title>
-    <link href="https://githdrobot.github.io/2021/09/30/build-github-blog-with-hexo/"/>
-    <id>https://githdrobot.github.io/2021/09/30/build-github-blog-with-hexo/</id>
-    <published>2021-09-30T10:04:47.283Z</published>
-    <updated>2021-09-30T10:04:47.283Z</updated>
+    <link href="https://githdrobot.github.io/2021/10/08/build-github-blog-with-hexo/"/>
+    <id>https://githdrobot.github.io/2021/10/08/build-github-blog-with-hexo/</id>
+    <published>2021-10-08T15:31:45.092Z</published>
+    <updated>2021-10-08T15:31:45.092Z</updated>
     
     
       
@@ -47,10 +47,10 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://githdrobot.github.io/2021/09/30/hello-world/"/>
-    <id>https://githdrobot.github.io/2021/09/30/hello-world/</id>
-    <published>2021-09-30T10:04:47.283Z</published>
-    <updated>2021-09-30T10:04:47.283Z</updated>
+    <link href="https://githdrobot.github.io/2021/10/08/hello-world/"/>
+    <id>https://githdrobot.github.io/2021/10/08/hello-world/</id>
+    <published>2021-10-08T15:31:45.092Z</published>
+    <updated>2021-10-08T15:31:45.092Z</updated>
     
     
       
@@ -67,11 +67,38 @@
   </entry>
   
   <entry>
+    <title>Portability-compatibility</title>
+    <link href="https://githdrobot.github.io/2021/10/01/portability-compatiblity/"/>
+    <id>https://githdrobot.github.io/2021/10/01/portability-compatiblity/</id>
+    <published>2021-10-01T12:24:02.000Z</published>
+    <updated>2021-10-08T15:31:44.584Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;兼容性和可移植性是软件开发中重要目标，Windows、Linux取得成功的一关键原因就在两者尽可能保证了应用的可移植性和兼容性。&lt;/p&gt;
+&lt;p&gt;兼容、可移植性主要涉及源码、编译器、操作系统、硬件等方面。&lt;/p&gt;
+&lt;h3 id=&quot;硬件&quot;&gt;&lt;a href=&quot;#硬件&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="Portability" scheme="https://githdrobot.github.io/tags/Portability/"/>
+    
+    <category term="Compatibility" scheme="https://githdrobot.github.io/tags/Compatibility/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Serial-communication</title>
     <link href="https://githdrobot.github.io/2021/09/28/serial-communication/"/>
     <id>https://githdrobot.github.io/2021/09/28/serial-communication/</id>
     <published>2021-09-28T23:22:33.000Z</published>
-    <updated>2021-09-30T10:04:47.247Z</updated>
+    <updated>2021-10-08T15:31:45.056Z</updated>
     
     
       
@@ -98,7 +125,7 @@
     <link href="https://githdrobot.github.io/2021/08/08/router-introduction/"/>
     <id>https://githdrobot.github.io/2021/08/08/router-introduction/</id>
     <published>2021-08-08T10:13:30.000Z</published>
-    <updated>2021-09-30T10:04:47.183Z</updated>
+    <updated>2021-10-08T15:31:44.992Z</updated>
     
     
       
