@@ -6,7 +6,7 @@
   <link href="https://githdrobot.github.io/atom.xml" rel="self"/>
   
   <link href="https://githdrobot.github.io/"/>
-  <updated>2021-10-08T15:33:52.860Z</updated>
+  <updated>2021-10-10T14:40:11.158Z</updated>
   <id>https://githdrobot.github.io/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Build Your Blog</title>
-    <link href="https://githdrobot.github.io/2021/10/08/build-github-blog-with-hexo/"/>
-    <id>https://githdrobot.github.io/2021/10/08/build-github-blog-with-hexo/</id>
-    <published>2021-10-08T15:33:52.860Z</published>
-    <updated>2021-10-08T15:33:52.860Z</updated>
+    <link href="https://githdrobot.github.io/2021/10/10/build-github-blog-with-hexo/"/>
+    <id>https://githdrobot.github.io/2021/10/10/build-github-blog-with-hexo/</id>
+    <published>2021-10-10T14:40:11.158Z</published>
+    <updated>2021-10-10T14:40:11.158Z</updated>
     
     
       
@@ -47,10 +47,10 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://githdrobot.github.io/2021/10/08/hello-world/"/>
-    <id>https://githdrobot.github.io/2021/10/08/hello-world/</id>
-    <published>2021-10-08T15:33:52.860Z</published>
-    <updated>2021-10-08T15:33:52.860Z</updated>
+    <link href="https://githdrobot.github.io/2021/10/10/hello-world/"/>
+    <id>https://githdrobot.github.io/2021/10/10/hello-world/</id>
+    <published>2021-10-10T14:40:11.158Z</published>
+    <updated>2021-10-10T14:40:11.158Z</updated>
     
     
       
@@ -67,11 +67,36 @@
   </entry>
   
   <entry>
+    <title>Opensource-license</title>
+    <link href="https://githdrobot.github.io/2021/10/10/opensource-license/"/>
+    <id>https://githdrobot.github.io/2021/10/10/opensource-license/</id>
+    <published>2021-10-10T11:49:03.000Z</published>
+    <updated>2021-10-10T14:40:10.602Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;引言&quot;&gt;&lt;a href=&quot;#引言&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="open source" scheme="https://githdrobot.github.io/tags/open-source/"/>
+    
+    <category term="license" scheme="https://githdrobot.github.io/tags/license/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Portability-compatibility</title>
     <link href="https://githdrobot.github.io/2021/10/01/portability-compatiblity/"/>
     <id>https://githdrobot.github.io/2021/10/01/portability-compatiblity/</id>
     <published>2021-10-01T12:24:02.000Z</published>
-    <updated>2021-10-08T15:33:52.312Z</updated>
+    <updated>2021-10-10T14:40:10.606Z</updated>
     
     
       
@@ -98,7 +123,7 @@
     <link href="https://githdrobot.github.io/2021/09/28/serial-communication/"/>
     <id>https://githdrobot.github.io/2021/09/28/serial-communication/</id>
     <published>2021-09-28T23:22:33.000Z</published>
-    <updated>2021-10-08T15:33:52.776Z</updated>
+    <updated>2021-10-10T14:40:11.074Z</updated>
     
     
       
@@ -125,7 +150,7 @@
     <link href="https://githdrobot.github.io/2021/08/08/router-introduction/"/>
     <id>https://githdrobot.github.io/2021/08/08/router-introduction/</id>
     <published>2021-08-08T10:13:30.000Z</published>
-    <updated>2021-10-08T15:33:52.716Z</updated>
+    <updated>2021-10-10T14:40:11.014Z</updated>
     
     
       
