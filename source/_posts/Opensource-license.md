@@ -2,8 +2,8 @@
 title: Opensource-license
 date: 2021-10-10 19:49:03
 tags: 
-- open source
-- license
+- Open Source
+- License
 ---
 
 ### 引言
@@ -12,19 +12,19 @@ tags:
 
 ### 现状
 
- [开源促进会（OSI，Open Source Initiative）]([Licenses by Name | Open Source Initiative](https://opensource.org/licenses/alphabetical))批准的大致百来种，主要有MIT、BSD、Apache、GPL等。[木兰社区](mulanos.oschina.net)制定的[木兰协议](license.coscl.org.cn)
+ [开源促进会]([Licenses by Name | Open Source Initiative](https://opensource.org/licenses/alphabetical))（OSI，Open Source Initiative）批准的大致百来种，主要有MIT、BSD、Apache、GPL等。[木兰社区](mulanos.oschina.net)制定的[木兰协议](license.coscl.org.cn)
 
 已通过OSI认证。木兰社区尽管由官方牵头，目前公司、组织、个人参与度并不高，开源项目亦有限。以下分别是Whitesource、 Github、 Backduck 做的许可使用率的调查。
 
-<img src="PERMISSIVE-VS-COPYLEFT-LICENSES-2016.jpg" alt="Permissive copyleft license" style="zomm:%100;"/>
+<img src="PERMISSIVE-VS-COPYLEFT-LICENSES-2016.jpg" alt="Permissive Copyleft License" style="zomm:%100;"/>
 
-<img src="github-repo-license-num-2015.png" alt="Github license" style="zomm:%100;"/>
+<img src="github-repo-license-num-2015.png" alt="Github License" style="zomm:%100;"/>
 
-<img src="blackduck-opensource-license-2014.png" alt="Blackduck license" style="zomm:%100;"/>
+<img src="blackduck-opensource-license-2014.png" alt="Blackduck License" style="zomm:%100;"/>
 
 ### 主要许可比较
 
-<img src="opensource-license-comparison.png" alt="license comparison" style="zomm:%100;"/>
+<img src="opensource-license-comparison.png" alt="License Comparison" style="zomm:%100;"/>
 
 GPL(GNU General Public License)
 
@@ -49,3 +49,4 @@ MIT是和BSD一样宽范的许可协议，作者只想保留版权，而无任�
 ### 思考
 
 开源项目、组织有哪些
+
