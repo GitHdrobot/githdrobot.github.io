@@ -5,8 +5,8 @@
     
     <entry>
       <title>Build Your Blog</title>
-      <link href="/2021/10/16/build-github-blog-with-hexo/"/>
-      <url>/2021/10/16/build-github-blog-with-hexo/</url>
+      <link href="/2021/11/11/build-github-blog-with-hexo/"/>
+      <url>/2021/11/11/build-github-blog-with-hexo/</url>
       
         <content type="html"><![CDATA[<h1 id="hexo-搭建github博客"><a href="#hexo-搭建github博客" class="headerlink" title="hexo 搭建github博客"></a>hexo 搭建github博客</h1><h2 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h2><h3 id="GitHub账号"><a href="#GitHub账号" class="headerlink" title="GitHub账号"></a>GitHub账号</h3><ul><li>申请GitHub账号</li><li>创建username.github.io仓库</li></ul><h3 id="环境搭建"><a href="#环境搭建" class="headerlink" title="环境搭建"></a>环境搭建</h3><ul><li>安装node.js</li><li>安装git</li></ul><h2 id="配置SSH-key"><a href="#配置SSH-key" class="headerlink" title="配置SSH key"></a>配置SSH key</h2><ul><li>在git bash中执行下面命令，连续回车3次</li></ul><pre class=" language-shell"><code class="language-shell">ssh-keygen -t rsa -C "邮件地址"</code></pre><ul><li>将文件~/.ssh/id_rsa.pub文件中的公钥添加到GitHub中</li><li>git bash 中执行下列命令，测试SSH配置是否正确</li></ul><pre class=" language-shell"><code class="language-shell">ssh -T git@github.com</code></pre><ul><li>设置邮箱、用户名</li></ul><pre class=" language-shell"><code class="language-shell">git config --global user.name "xxx"// xxx为github用户名git config --global user.email  "xxx@163.com"// github注册邮箱</code></pre><h2 id="使用hexo写博客"><a href="#使用hexo写博客" class="headerlink" title="使用hexo写博客"></a>使用hexo写博客</h2><h3 id="什么是hexo"><a href="#什么是hexo" class="headerlink" title="什么是hexo"></a>什么是hexo</h3><p>Hexo 是一个快速、简洁且高效的博客框架。Hexo 使用&nbsp;<a href="http://daringfireball.net/projects/markdown/">Markdown</a>（或其他渲染引擎）解析文章，在几秒内，即可利用靓丽的主题生成静态网页。</p><p>更多: <a href="https://hexo.io/docs/">Get Started</a></p><h3 id="hexo安装"><a href="#hexo安装" class="headerlink" title="hexo安装"></a>hexo安装</h3><pre class=" language-shell"><code class="language-shell">npm install -g hexo-clihexo init</code></pre><h3 id="hexo网站目录结构"><a href="#hexo网站目录结构" class="headerlink" title="hexo网站目录结构"></a>hexo网站目录结构</h3><pre class=" language-json"><code class="language-json">.├── _config.yml             网站配置文件 ├── package.json            应用程序信息├── scaffolds               模板文件夹├── source                  资源文件夹|   ├── _drafts|   └── _posts└── themes                  主题文件夹</code></pre><h1 id="编辑文档"><a href="#编辑文档" class="headerlink" title="编辑文档"></a>编辑文档</h1><ul><li>hexo new [layout] title                 创建文档，layout默认为post</li><li>使用编辑工具编辑创建的文档 </li><li>hexo generate                             生成静态文件</li><li>hexo clean &amp;&amp; hexo deploy        部署到服务器</li></ul><p>更多参见 <a href="https://hexo.io/docs">hexo doc</a></p><h1 id="hexo-升级"><a href="#hexo-升级" class="headerlink" title="hexo 升级"></a>hexo 升级</h1><pre class=" language-shell"><code class="language-shell">npm install -g npm-check-updatesncuncu -u# 以下命令用来解决依赖问题，非必须，视实际环境执行npm audit fixnpm auditnpm update kind-of --depth 10</code></pre>]]></content>
       
@@ -34,12 +34,35 @@
     
     <entry>
       <title>Hello World</title>
-      <link href="/2021/10/16/hello-world/"/>
-      <url>/2021/10/16/hello-world/</url>
+      <link href="/2021/11/11/hello-world/"/>
+      <url>/2021/11/11/hello-world/</url>
       
         <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.<br>Welcome</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
       
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>ExecutableFile</title>
+      <link href="/2021/11/07/executablefile/"/>
+      <url>/2021/11/07/executablefile/</url>
+      
+        <content type="html"><![CDATA[<h3 id="摘要"><a href="#摘要" class="headerlink" title="摘要"></a>摘要</h3><p>可执行文件是指可被某个平台加载执行的文件，分为编译型执行文件和解释型脚本文件，本文仅对编译文件进行说明。不同平台的可执行文件格式差别较大，可执行文件也是相对的。例如：对于Windows平台，Windows系统负责载入并执行.exe文件，.exe在windows系统下是可执行文件。相对于引导程序，Windows系统则是可执行文件，只是两者执行环境、扮演的角色不同。常见的可执行文件格式如下表：</p><table><thead><tr><th>简称</th><th>全称</th><th>系统</th><th>扩展名</th><th>查看工具</th></tr></thead><tbody><tr><td>COFF</td><td>Common Object File Format</td><td>Unix Like、Embedded Platform</td><td>.obj</td><td>objdump,dumpbin</td></tr><tr><td>PE</td><td>Portable Executable</td><td>Windows</td><td>.exe,.dll</td><td>PETool</td></tr><tr><td>ELF</td><td>Executable and Linkable</td><td>Linux、Unix Like</td><td>.o,.so</td><td>objdump,readelf</td></tr><tr><td>Mach-O</td><td>Mach Object</td><td>Mac OS</td><td>dylib</td><td>otool、MachOView</td></tr></tbody></table><p>可使用转换工具将不同格式的目标文件进行相互转换<a href="!https://github.com/gitGNU/objconv">objconv</a>。</p><h3 id="COFF"><a href="#COFF" class="headerlink" title="COFF"></a>COFF</h3><p>通用目标文件格式，最早在Unix System V中使用，主要用于可执行文件、目标文件、共享库文件的一种文件格式。</p><table><thead><tr><th>文件结构</th><th>位置</th><th>作用</th></tr></thead><tbody><tr><td>文件头</td><td>文件开始处</td><td>文件概览，控制其他节的布局</td></tr><tr><td>可选头</td><td>文件头后面</td><td>存放文件执行相关信息</td></tr><tr><td>节头</td><td>可选头后面，数量由文件头决定</td><td>维护代码节、数据节位置、大小相关信息</td></tr><tr><td>节数据</td><td>存放在节头中，由节头指定</td><td>包含程序数据、代码</td></tr><tr><td>重定位指令</td><td>存放在节头中，由节头指定</td><td>包含重定位节所需要的相关信息</td></tr><tr><td>行数</td><td>存放在节头中，由节头指定</td><td>存放每个符号的行号</td></tr><tr><td>符号表</td><td>存放在文件头中</td><td>包含文件定义、引用的每个符号</td></tr><tr><td>字符串表</td><td>符号表后面</td><td>存放符号名称</td></tr></tbody></table><p>当前使用更多的是COFF文件格式的变种，如Windows系统PE、Linux的ELF、MacOS的Mach-O，以及其他类Unix环境，嵌入式环境（XCOFF、ECOFF），大多格式都包含上述结构。</p><img src="PE_COFF_FileHeader.png" alt="PE COFF File Header" style="zomm:%100;"><h3 id="PE"><a href="#PE" class="headerlink" title="PE"></a>PE</h3><p>PE文件文件头由MS-DOS信息、PE签名信息、COFF文件头、可选头，可选头中一般存放着ms定义的信息。PE格式最新介绍见ms文档说明<a href="https://docs.microsoft.com/zh-cn/windows/win32/debug/pe-format">PE 文件格式</a>和[PE文件细节](<a href="https://docs.microsoft.com/en-us/archive/msdn-magazine/2002/february/inside-windows-win32-portable-executable-file-format-in-detail">Inside Windows: Win32 Portable Executable File Format in Detail | Microsoft Docs</a>)。</p><p>此处以vs编译出一可执行文件为例，其布局如下图</p><img src="EXE_Format_example.png" alt="EXE_Format_example" style="zomm:%100;"><img src="Portable_Executable_32_bit_Structure_in_SVG_fixed.svg" alt="PE_Structure" style="zomm:%100;"><p>若是.NET程序其文件结构基于PE格式，只是在其中增加了CLR头和CLR数据。</p><img src="Net_PE_file.JPG" alt="NET_File_Structure" style="zomm:%100;"><h3 id="ELF"><a href="#ELF" class="headerlink" title="ELF"></a>ELF</h3><p>一个ELF（Executable and Link able Forma）文件由ELF文件头和数据组成，数据包括了程序头表：描述了文件如何被加载到内存，节头表：描述了文件中的节表如何被链接器链接，以及数据，数据只能属于程序头表或者节头表，ELF文件可分别从执行视图和链接视图的角度进行分析。</p><img src="Elf-layout--en.svg" alt="ELF_Layout" style="zomm:%100;"><img src="ELF_Executable_and_Linkable_Format_diagram_by_Ange_Albertini.png" alt="ELF_Structure" style="zomm:%100;"><p>ELF文件被设计为便捷、可扩展、跨平台的格式，可以应用在不同大小端、不同处理器、不同指令集、不同操作系统中，这些属性在ELF结构中都有相应的字段进行描述。</p><h3 id="Mach-O"><a href="#Mach-O" class="headerlink" title="Mach-O"></a>Mach-O</h3><p>Mach-O格式主要应用与OSX、macOS、IOS系统中，Mach-O文件由Mach-O头、加载命令、一个或多个段（每个段由0~255个节组成）几部分组成。采用胖二进制格式，即包含完整的多个平台架构的程序</p><img src="Mach-O-Format.jpg" alt="Mach-O-Format" style="zomm:%100;"><img src="Mach-O-example.png" alt="Mach-O-example" style="zomm:%100;">]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> COFF </tag>
+            
+            <tag> PE </tag>
+            
+            <tag> ELF </tag>
+            
+        </tags>
       
     </entry>
     
